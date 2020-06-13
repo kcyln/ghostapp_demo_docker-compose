@@ -1,6 +1,6 @@
 ### Ghost Demo Use Docker-compose
 
-> How Use
+> How To Use
 
 ```docker
 docker-compose build
